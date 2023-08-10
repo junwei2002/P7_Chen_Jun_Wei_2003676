@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string-array name="breakdown_options">
+        <item>Percentage</item>
+        <item>Ratio</item>
+        <item>Amount</item>
+        <item>Combination</item>
+    </string-array>
+</resources>
